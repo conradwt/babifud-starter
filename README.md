@@ -39,7 +39,7 @@ the source for the tutorial to work with Xcode 6.1.
 
 ## Membership requirements
 
-    Registered iOS Developer Program
+    Registered iOS or Mac Developer Program
 
     Note:  This is required when using CloudKit.
 
