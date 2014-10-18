@@ -53,7 +53,7 @@ the source for the tutorial to work with Xcode 6.1.
 
 Bug reports and feature requests can be filed for the babifud-starter project here:
 
-* [File Bug Reports and Features](https://github.com/conradwt/cassandra-example-using-rails/issues)
+* [File Bug Reports and Features](https://github.com/conradwt/babifud-starter/issues)
 
 ## Contact
 
