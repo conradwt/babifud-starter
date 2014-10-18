@@ -19,8 +19,6 @@ the source for the tutorial to work with Xcode 6.1.
 3.  Opening project
 
     $ open BabiFud.xcodeproj
-
-    Note:  This is the only file that should be opened after completing the installation of pod(s).
     
 4.  Compiling new build of application
 
