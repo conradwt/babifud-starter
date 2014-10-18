@@ -51,7 +51,7 @@ the source for the tutorial to work with Xcode 6.1.
 
 ## Support
 
-Bug reports and feature requests can be filed for the cassandra-example-using-rails project here:
+Bug reports and feature requests can be filed for the babifud-starter project here:
 
 * [File Bug Reports and Features](https://github.com/conradwt/cassandra-example-using-rails/issues)
 
@@ -69,5 +69,5 @@ This repository is released under the [MIT License](http://www.opensource.org/li
 
 ## Copyright
 
-&copy; Copyright 2014 Razeware LLC. All Rights Reserved.
-&copy; Copyright 2014 Conrad Taylor. All Rights Reserved.
+* &copy; Copyright 2014 Razeware LLC. All Rights Reserved.
+* &copy; Copyright 2014 Conrad Taylor. All Rights Reserved.
