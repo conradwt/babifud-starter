@@ -48,6 +48,7 @@ the source for the tutorial to work with Xcode 6.1.
 ## References
 
 * [Beginning CloudKit Tutorial](http://www.raywenderlich.com/83116/beginning-cloudkit-tutorial)
+* [iOS 8 by Tutorials](http://www.raywenderlich.com/store/ios-8-by-tutorials)
 
 ## Support
 
